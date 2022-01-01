@@ -1,0 +1,6 @@
+-   id: wpiformat
+    name: wpiformat
+    description: Format files with wpiformat for FIRST Robotics Competition projects.
+    entry: wpiformat
+    language: system
+    pass_filenames: false
