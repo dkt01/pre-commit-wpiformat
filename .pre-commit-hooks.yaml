@@ -2,5 +2,5 @@
     name: wpiformat
     description: Format files with wpiformat for FIRST Robotics Competition projects.
     entry: wpiformat
-    language: system
+    language: python
     pass_filenames: false
