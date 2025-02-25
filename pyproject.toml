@@ -1,5 +1,0 @@
-[project]
-name = "pre-commit-wpiformat"
-version = "2025.31"
-dependencies = ["wpiformat == 2025.31"]
-requires-python = ">= 3.9"
